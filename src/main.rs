@@ -10,5 +10,9 @@ fn main() {
     tree.insert(60);
     tree.insert(30);
     tree.insert(89);
+    tree.insert(90);
+    tree.insert(83);
+    tree.insert(81);
+    tree.insert(85);
     tree.print();
 }
